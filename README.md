@@ -8,4 +8,7 @@ Interestingly, machine learning models can be deployed to predict potential attr
 ``pip install streamlit``
 
 ## Run
-``streamlit run main.py ``
+`streamlit run main.py `
+
+## Demo
+![](demo.png)
